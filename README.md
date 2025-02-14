@@ -50,4 +50,4 @@ Use the *requirements.txt* file to install all packages:
 
 ## Changelog
 
-see [CHANGELOG.md](https://github.com/niftycode/kiel-open-data/blob/master/Changelog.md)
+see [CHANGELOG.md](https://github.com/niftycode/kiel-open-data/blob/main/Changelog.md)
