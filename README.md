@@ -1,4 +1,4 @@
-# Kiel_Open_Data
+# kiel-open-data
 
 ![Static Badge](https://img.shields.io/badge/python-3.12-blue)
 ![GitHub License](https://img.shields.io/github/license/niftycode/ai-chatbot)
@@ -23,7 +23,12 @@ You should also install the following modules:
 * matplotlib
 * numpy
 * pandas
+* plotly
 * requests
+
+Use the *requirements.txt* file to install all packages:
+
+    pip3 install -r requirements.txt
 
 ## Notebooks
 
@@ -45,4 +50,4 @@ You should also install the following modules:
 
 ## Changelog
 
-see [CHANGELOG.md](https://github.com/niftycode/Kiel_Open_Data/blob/master/Changelog.md)
+see [CHANGELOG.md](https://github.com/niftycode/kiel-open-data/blob/master/Changelog.md)
