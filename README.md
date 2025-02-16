@@ -11,7 +11,7 @@ A collection of [Jupyter Notebooks](https://jupyter.org/) showing visualized ope
 **Sources**:
 
 * [https://www.kiel.de/de/kiel_zukunft/statistik_kieler_zahlen/open_data/index.php](https://www.kiel.de/de/kiel_zukunft/statistik_kieler_zahlen/open_data/index.php)
-* [https://www.schleswig-holstein.de/DE/Schwerpunkte/openData/openData_node.html](https://www.schleswig-holstein.de/DE/Schwerpunkte/openData/openData_node.html)
+* [https://www.schleswig-holstein.de/DE/Schwerpunkte/openData/openData_node.html](https://opendata.schleswig-holstein.de/dataset)
 
 ## Requirements
 
